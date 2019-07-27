@@ -1,5 +1,5 @@
 {
-  "name": "Infi Hass.io Addons",
-  "url": "https://github.com/Infi-St/hassio-addons",
-  "maintainer": "timhe"
+  "name": "Community Hass.io Add-ons",
+  "url": "https://github.com/hassio-addons/repository",
+  "maintainer": "Franck Nijhof <frenck@addons.community>"
 }
