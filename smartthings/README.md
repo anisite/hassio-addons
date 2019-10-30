@@ -13,7 +13,8 @@ Credit also goes to vkorn and adamfeldman for their original and modified implem
 | username       | MQTT broker username     |
 | password       | MQTT broker password     |
 | preface        | Preface for topics       |
-| state_suffix   | State topics suffix      |
+| state_read_suffix   | State topics suffix      |
+| state_write_suffix   | State topics suffix      |
 | command_suffix | Command topics suffix    |
 | retain_state   | Retain state changes     |
 | bridge_port    | Port bridge listening on |
